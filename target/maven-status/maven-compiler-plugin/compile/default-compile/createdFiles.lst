@@ -1,0 +1,6 @@
+org\duoKeyboardKoalition\edenHouseSpigot\scanners\MultiblockScanner.class
+org\duoKeyboardKoalition\edenHouseSpigot\scanners\VillagerJobScanner.class
+org\duoKeyboardKoalition\edenHouseSpigot\scanners\VillagerJobScanner$VillagerData.class
+org\duoKeyboardKoalition\edenHouseSpigot\utils\CSVWriter.class
+org\duoKeyboardKoalition\edenHouseSpigot\EdenHouseSpigot.class
+org\duoKeyboardKoalition\edenHouseSpigot\Listener\VillagerListener.class
